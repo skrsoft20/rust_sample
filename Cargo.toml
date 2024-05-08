@@ -1,0 +1,10 @@
+[package]
+name = "rust_sample"
+version = "1.0.0"
+authors = ["Kamal <skrsoft@gmail.com>"]
+
+[[bin]]
+name = "myapp"
+path = "myapp.rs"
+
+[dependencies]
